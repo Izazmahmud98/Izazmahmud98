@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi this is Izaz Mahmud
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D4E03AQEVKSurwzYqfQ/profile-displayphoto-shrink_200_200/0/1688548685361?e=1694044800&v=beta&t=4WIuK7pT1U1YlqmUiOIogbx5lIfJtvOolQxWpc0CCgE)
+![Web Developer](https://media.licdn.com/dms/image/D4E16AQEAUAePUboAlA/profile-displaybackgroundimage-shrink_350_1400/0/1688548885038?e=1694044800&v=beta&t=Kb4_ulkZgzuPabo1CCfUJ4lDp5Kk6SzvdVuxw8IYox0)
 
 Experienced full stack web developer with a demonstrated history of working in Good knowledge of web design, user experience and best practices for speed. Currently on my way to building a new project based on html, CSS, react, JS and Django, MySQL.
 
