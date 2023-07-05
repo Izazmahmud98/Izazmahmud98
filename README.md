@@ -1,4 +1,4 @@
-### Hi there 👋, Hi this is Izaz Mahmud
+## 👋 Hi this is Izaz Mahmud
 #### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/D4E16AQEAUAePUboAlA/profile-displaybackgroundimage-shrink_350_1400/0/1688548885038?e=1694044800&v=beta&t=Kb4_ulkZgzuPabo1CCfUJ4lDp5Kk6SzvdVuxw8IYox0)
 
